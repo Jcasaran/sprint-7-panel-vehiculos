@@ -17,7 +17,9 @@ Aplicación web que explora anuncios de venta de vehículos usados. Incluye un h
 
 ## Despliegue en Render
 
-Conecta este repositorio a un servicio web gratuito. Usa `pip install --upgrade pip && pip install -r requirements.txt` como **Build Command** y `streamlit run app.py --server.address 0.0.0.0 --server.port $PORT` como **Start Command**. La URL pública se añadirá aquí tras verificar el despliegue.
+Aplicación desplegada: https://sprint-7-panel-vehiculos.onrender.com/
+
+El servicio gratuito usa `pip install --upgrade pip && pip install -r requirements.txt` como **Build Command** y `streamlit run app.py --server.address 0.0.0.0 --server.port $PORT` como **Start Command**. Puede tardar en despertar tras un periodo de inactividad.
 
 ## Datos
 
