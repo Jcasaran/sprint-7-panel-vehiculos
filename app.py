@@ -47,6 +47,7 @@ if show_scatter:
         valid_pairs,
         x="odometer",
         y="price",
+        render_mode="svg",
         opacity=0.35,
         hover_data=["model", "condition"],
         title="Precio frente a kilometraje",
